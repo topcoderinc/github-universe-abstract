@@ -1,7 +1,7 @@
 # Abstracts for Github Universe 2016
 
 # Chrome Exts + Github == Love
-We love Github. We use it in a myriad of ways every day. In fact, we love it so much we built a Chrome Ext to tie it closer to our very own platform. Have you ever wanted to integrate Github with your to do list or maybe your internal status reporting.  You could accomplish this all with a chrome extension. In this talk I’ll deep dive into how we built a Chrome Ext to tie our services to Github Issues and how you can do the same. We’ll cover oAuth, the Github API and some of the Chrome APIs. I’ll also discuss how you can contribute to our own open source extension [hosted on GitHub](https://github.com/cloudspokes/GLIB-ChromeExt).
+We love Github. We use it in a myriad of ways every day. In fact, we love it so much we built a Chrome Ext to tie it closer to our very own platform. Have you ever wanted to integrate Github with your to do list or maybe your internal status reporting.  You could accomplish this all with a chrome extension. In this talk I’ll deep dive into how we built a Chrome Ext to tie our services to Github Issues and how you can do the same. We’ll cover oAuth, the Github API and some of the Chrome APIs. I’ll also discuss how you can contribute to our own open source extension [hosted on Github](https://github.com/cloudspokes/GLIB-ChromeExt).
 
 These talks will be presented by Chris DeLaurentis, an architect who has been improving Topcoder's development process for their over 1,000,000 member community while delivering applications for some of the largest users of Github.com and Github Enterprise.
 
